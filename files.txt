@@ -1,0 +1,9 @@
+DeepLab/.ipynb_checkpoints/segmentation-checkpoint.ipynb
+DeepLab/segmentation.ipynb
+dataset_preprocess/.ipynb_checkpoints/camvid_preprocessing-checkpoint.ipynb
+dataset_preprocess/.ipynb_checkpoints/cityscape_preprocessing-checkpoint.ipynb
+dataset_preprocess/.ipynb_checkpoints/pascal_preprocessing-checkpoint.ipynb
+dataset_preprocess/camvid_preprocessing.ipynb
+dataset_preprocess/cityscape_preprocessing.ipynb
+dataset_preprocess/pascal_preprocessing.ipynb
+segmentation.ipynb
