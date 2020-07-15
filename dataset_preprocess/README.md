@@ -16,7 +16,7 @@ Download Pascal dataset from [here](http://mi.eng.cam.ac.uk/research/projects/Vi
 ### Running the notebooks
 For Cityscapes dataset, run cells of `cityscape_preprocessing.ipynb`, for PascalVOC 2012, run `pascal_preprocessing.ipynb` and for CamVid, run `camvid_preprocessing.ipynb`
 
-### Output Directory tree
+### Output Directory Heirarchy
     data/
       train_frames/
         train/
